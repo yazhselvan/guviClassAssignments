@@ -1,0 +1,22 @@
+.main{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#dob{
+    width: 45%;
+}
+
+button{
+    margin-left: 4px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    background-color: lightgray;
+    width: 500px;
+    border-radius: 20px;
+}
